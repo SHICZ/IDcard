@@ -2,15 +2,17 @@
   "name": "shicz/idcard",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
-  "homepage": "https://github.com/SHICZ/idcard.git",
+  "keywords": [
+    "shi"
+  ],
+  "homepage": "https://github.com/shicz/idcard.git",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
       "name": "shichongzheng",
       "email": "shichongzheng@163.com",
-      "homepage": "https://github.com/SHICZ"
+      "homepage": "https://github.com/shicz"
     }
   ],
   "autoload": {
