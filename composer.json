@@ -1,0 +1,24 @@
+{
+  "name": "SHICZ/idcard",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/SHICZ/idcard.git",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "shichongzheng",
+      "email": "shichongzheng@163.com",
+      "homepage": "https://github.com/SHICZ"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "idcard\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
