@@ -1,5 +1,5 @@
 <?php
-namespace shicz;
+namespace shicz\Idcard;
 
 class Identity
 {
