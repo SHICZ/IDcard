@@ -9,7 +9,7 @@ class Region
     public function __construct($regionCode)
     {
         if (empty(static::$regions)) {
-            static::$regions = json_decode(file_get_contents('region.json'), true);
+            static::$regions = json_decode(file_get_contents(realpath(__DIR__.'/region.json')), true);
         }
         $this->code = (string) $regionCode;
     }

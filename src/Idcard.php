@@ -1,7 +1,7 @@
 <?php
 namespace shicz;
 
-class Identity
+class Idcard
 {
     protected $identityCardNumber;
 
